@@ -11,9 +11,7 @@ public class StringDemo {
 	    String a3 =  new String("A");
 	    
 	    char value[] = new char[10];
-	    
 	    String a4 =  new String(value);
-	    StringBuffer
 	}
 	
 	
